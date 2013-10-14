@@ -51,12 +51,16 @@ PyCon UK in Coventry, 22nd September 2013
 
 DjangoCon US in Chicago, 2nd September 2013
 -------------------------------------------
+
 * Barbara Hendrick (bahendri)
 * Keith Edmiston <keith.edmiston@mccombs.utexas.edu>
 * David Garcia (davideire)
 * Ernesto Rodriguez <ernesto@tryolabs.com> https://github.com/ernestorx @ernestorx
 * Jason Blum
 * Hayssam Hajar <hayssam.hajar@gmail.com>  github: hhajar
+* Kermit the Frog
+* Miss Piggy
+
 
 Cardiff Dev Workshop, 8th June 2013
 -----------------------------------
@@ -110,3 +114,5 @@ I followed the tutorial online
 * Can Ibanoglu - http://github.com/canibanoglu
 * Pedro J. Lledó - http://github.com/pjlledo - 11th October 2013
 * Sam - http://github.com/DublinSam - 14th October 2013
+* Gonzo
+
